@@ -1,5 +1,5 @@
 # NUS Computer Science Summary Notes
-A repository containing the summary notes I've made while studying Computer Science at the National University of Singapore. 
+A repository containing the study notes I've made while studying Computer Science at the National University of Singapore. 
 
 These notes heavily reference the class lecture notes and slides, and are meant to recap the key concepts for revision purposes. I've also added some additional content from various online sources when it's helpful for understanding.
 
